@@ -52,7 +52,8 @@ public class TrabalhoTPA {
 //            case 7:
 //                return new RR();  
 //            case 8:
-//                return new multiplasFilas();                
+//                return new multiplasFilas();
+                //teste
             default:
                 return null;
         }
